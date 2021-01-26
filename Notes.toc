@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1}Christimas in Paris, ca. 1280}{2}{section.1}% 
+\contentsline {subsection}{\numberline {1.1}Church Music}{2}{subsection.1.1}% 
+\contentsline {subsection}{\numberline {1.2}Puer natus est nobis (\IeC {\textquotedblleft }A child is born to us\IeC {\textquotedblright })}{2}{subsection.1.2}% 
+\contentsline {subsection}{\numberline {1.3}Viderunt omnes (\IeC {\textquotedblleft }All the ends of the earth have seen the salvation of our God\IeC {\textquotedblright })}{3}{subsection.1.3}% 
+\contentsline {subsection}{\numberline {1.4}Types of Church Music}{3}{subsection.1.4}% 
+\contentsline {subsubsection}{\numberline {1.4.1}Chants}{3}{subsubsection.1.4.1}% 
+\contentsline {subsubsection}{\numberline {1.4.2}Organum}{3}{subsubsection.1.4.2}% 
+\contentsline {subsection}{\numberline {1.5}Leonin's and Perotin's setting of Viderunt omnes}{4}{subsection.1.5}% 
+\contentsline {subsubsection}{\numberline {1.5.1}Leonin's Viderun omnes}{4}{subsubsection.1.5.1}% 
+\contentsline {subsubsection}{\numberline {1.5.2}Perotin's Viderun omnes}{4}{subsubsection.1.5.2}% 
+\contentsline {subsection}{\numberline {1.6}Secular Music and Types of Secular Music}{4}{subsection.1.6}% 
+\contentsline {subsubsection}{\numberline {1.6.1}Estampie}{5}{subsubsection.1.6.1}% 
+\contentsline {subsubsection}{\numberline {1.6.2}Trouv\IeC {\`e}re song}{5}{subsubsection.1.6.2}% 
+\contentsline {subsubsection}{\numberline {1.6.3}Motet}{5}{subsubsection.1.6.3}% 
+\contentsline {subsection}{\numberline {1.7}Jeu de Robin et Marion (\IeC {\textquotedblleft }play with songs\IeC {\textquotedblright })}{5}{subsection.1.7}% 
+\contentsline {subsection}{\numberline {1.8}De ma dame vient/Dieus, comment porroie/Omnes}{6}{subsection.1.8}% 
+\contentsline {subsection}{\numberline {1.9}Emergence of Polyphony}{6}{subsection.1.9}% 
