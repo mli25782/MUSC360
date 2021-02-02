@@ -15,3 +15,17 @@
 \contentsline {subsection}{\numberline {1.7}Jeu de Robin et Marion (\IeC {\textquotedblleft }play with songs\IeC {\textquotedblright })}{5}{subsection.1.7}% 
 \contentsline {subsection}{\numberline {1.8}De ma dame vient/Dieus, comment porroie/Omnes}{6}{subsection.1.8}% 
 \contentsline {subsection}{\numberline {1.9}Emergence of Polyphony}{6}{subsection.1.9}% 
+\contentsline {section}{\numberline {2}At the Court of Philip the Good of Burgundy, ca. 1450}{6}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}The Duchy of Burgundy}{6}{subsection.2.1}% 
+\contentsline {subsection}{\numberline {2.2}Rose liz printemps verdure}{7}{subsection.2.2}% 
+\contentsline {subsection}{\numberline {2.3}Gilles Binchois (Gilles de Bins)}{7}{subsection.2.3}% 
+\contentsline {subsubsection}{\numberline {2.3.1}Deuil angoisseux (ceremonial ballade (aa'bC))}{8}{subsubsection.2.3.1}% 
+\contentsline {subsection}{\numberline {2.4}The English Guise}{8}{subsection.2.4}% 
+\contentsline {subsubsection}{\numberline {2.4.1}John Dunstable}{8}{subsubsection.2.4.1}% 
+\contentsline {subsubsection}{\numberline {2.4.2}Quam pulchra es}{8}{subsubsection.2.4.2}% 
+\contentsline {subsubsection}{\numberline {2.4.3}Johannes Tinctoris}{8}{subsubsection.2.4.3}% 
+\contentsline {subsubsection}{\numberline {2.4.4}Martin le Franc}{8}{subsubsection.2.4.4}% 
+\contentsline {subsubsection}{\numberline {2.4.5}Guillaume Du Fay}{9}{subsubsection.2.4.5}% 
+\contentsline {subsubsection}{\numberline {2.4.6}Nuper rosarum flores}{9}{subsubsection.2.4.6}% 
+\contentsline {subsubsection}{\numberline {2.4.7}Missa L'homme arme}{9}{subsubsection.2.4.7}% 
+\contentsline {subsection}{\numberline {2.5}Messe de Nostre-Dame}{10}{subsection.2.5}% 
