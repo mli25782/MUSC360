@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  1 FEB 2021 22:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  8 FEB 2021 21:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -321,13 +321,13 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Try loading font information for U+msb on input line 15.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (./Notes.toc)
+) (./Notes.toc [1
+
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
 \tf@toc=\write4
 \openout4 = `Notes.toc'.
 
- [1
-
-{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+ [2]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 20.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
@@ -339,7 +339,7 @@ Overfull \hbox (7.41585pt too wide) in paragraph at lines 43--44
 \OT1/cmr/m/n/10 Gregorian chants to-day are com-piled in \OT1/cmr/bx/n/10 Liber Usu-alis \OT1/cmr/m/n/10 and are no-tated us-ing \OT1/cmr/bx/n/10 square no-ta-tion\OT1/cmr/m/n/10 . 
  []
 
-[2]
+[3]
 Overfull \hbox (6.35645pt too wide) in paragraph at lines 87--90
 \OT1/cmr/bx/n/10 non-literate/unwritten \OT1/cmr/m/n/10 tra-di-tions where singers re-con-struct melodies in per-for-mance us-ing melodic
  []
@@ -349,17 +349,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 87--90
 
  []
 
-[3]
+[4]
 Underfull \hbox (badness 10000) in paragraph at lines 137--141
 
  []
 
-[4]
+[5]
 Underfull \hbox (badness 10000) in paragraph at lines 178--179
 
  []
 
-[5]
+[6]
 Underfull \hbox (badness 10000) in paragraph at lines 187--190
 
  []
@@ -369,7 +369,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 187--190
 
  []
 
-[6] [7] [8]
+[7] [8] [9]
 Underfull \hbox (badness 10000) in paragraph at lines 302--304
 
  []
@@ -384,30 +384,95 @@ Overfull \hbox (4.56052pt too wide) in paragraph at lines 310--312
 \OT1/cmr/m/n/10 Is an \OT1/cmr/bx/n/10 isorhyth-mic \OT1/cmr/m/n/10 motet that fea-tures re-peated \OT1/cmr/bx/n/10 col-ors \OT1/cmr/m/n/10 (re-peated pitch pat-tern) and \OT1/cmr/bx/n/10 Talea \OT1/cmr/m/n/10 (re-peated
  []
 
-[9]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 341.
- [10]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 341.
+[10]
+Overfull \hbox (33.86652pt too wide) in paragraph at lines 341--341
+[]\OT1/cmr/bx/n/14.4 In the Printshops of Ot-ta-viano Petrucci and Pierre At-taing-nant
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--346
+
+ []
+
+
+Overfull \hbox (0.42326pt too wide) in paragraph at lines 347--350
+\OT1/cmr/m/n/10 First pub-lisher to print poly-phonic mu-sic that used \OT1/cmr/bx/n/10 triple-impressions \OT1/cmr/m/n/10 a slow pro-cess but pro-duced
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 347--350
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 347--350
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 351--353
+
+ []
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 369--372
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 369--372
+
+ []
+
+[12]
+Overfull \hbox (0.99612pt too wide) in paragraph at lines 382--383
+[]\OT1/cmr/m/n/10 Also fea-tures ca-dences de-noted ends of sec-tions that align with the po-etry [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 403--406
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 403--406
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 410--413
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 410--413
+
+ []
+
+[13]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 429.
+ [14]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 429.
  (./Notes.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 341.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 341.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 429.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 429.
 Package rerunfilecheck Info: File `Notes.out' has not changed.
-(rerunfilecheck)             Checksum: C4B849B7CA243816AC17F6DB635692D7;2494.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 341.
+(rerunfilecheck)             Checksum: 319B1B780D1BEB1DD399D64124DE0DB7;3342.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 429.
  ) 
 Here is how much of TeX's memory you used:
- 6449 strings out of 492616
- 93110 string characters out of 6129482
- 191709 words of memory out of 5000000
- 10261 multiletter control sequences out of 15000+600000
+ 6473 strings out of 492616
+ 93478 string characters out of 6129482
+ 193721 words of memory out of 5000000
+ 10271 multiletter control sequences out of 15000+600000
  11503 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,6n,28p,367b,448s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,6n,28p,409b,448s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Notes.pdf (10 pages, 117261 bytes).
+Output written on Notes.pdf (14 pages, 127290 bytes).
 PDF statistics:
- 244 PDF objects out of 1000 (max. 8388607)
- 223 compressed objects within 3 object streams
- 43 named destinations out of 1000 (max. 500000)
- 249 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 313 PDF objects out of 1000 (max. 8388607)
+ 288 compressed objects within 3 object streams
+ 57 named destinations out of 1000 (max. 500000)
+ 329 words of extra memory for PDF output out of 10000 (max. 10000000)
 
