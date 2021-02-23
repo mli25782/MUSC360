@@ -57,3 +57,13 @@
 \contentsline {subsubsection}{\numberline {4.6.4}Pavana Lacrimae}{17}{subsubsection.4.6.4}% 
 \contentsline {subsubsection}{\numberline {4.6.5}Consort music}{17}{subsubsection.4.6.5}% 
 \contentsline {subsection}{\numberline {4.7}Elizabethan Theater Music}{17}{subsection.4.7}% 
+\contentsline {section}{\numberline {5}Carnival and Lent in Venice, ca. 1650}{17}{section.5}% 
+\contentsline {subsection}{\numberline {5.1}Claudio Monteverdi (1567-1643)}{17}{subsection.5.1}% 
+\contentsline {subsubsection}{\numberline {5.1.1}L'incoronatione di Poppea (1642)}{17}{subsubsection.5.1.1}% 
+\contentsline {subsection}{\numberline {5.2}Francesco Cavalli}{18}{subsection.5.2}% 
+\contentsline {subsection}{\numberline {5.3}Chamber music in Venice ca 1650}{18}{subsection.5.3}% 
+\contentsline {subsection}{\numberline {5.4}Barbara Strozzi (1619-1677)}{18}{subsection.5.4}% 
+\contentsline {subsubsection}{\numberline {5.4.1}Lagrime mie (1659)}{19}{subsubsection.5.4.1}% 
+\contentsline {subsection}{\numberline {5.5}Public Music/Life}{19}{subsection.5.5}% 
+\contentsline {subsection}{\numberline {5.6}Giovanni Gabrieli (1553-1612)}{19}{subsection.5.6}% 
+\contentsline {subsubsection}{\numberline {5.6.1}Canzon septimi toni a 8 no. 2 (1597)}{19}{subsubsection.5.6.1}% 

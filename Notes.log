@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  15 FEB 2021 21:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  22 FEB 2021 22:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -470,29 +470,79 @@ Underfull \hbox (badness 10000) in paragraph at lines 494--496
  []
 
 [16]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 522.
- [17]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 522.
+Underfull \hbox (badness 10000) in paragraph at lines 523--527
+
+ []
+
+
+Overfull \hbox (2.1813pt too wide) in paragraph at lines 523--527
+\OT1/cmr/m/n/10 with many sec-ondary char-ac-ters. The mu-sic was tune-ful and sup-ported the singers (more melo-di-ous). 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--527
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--527
+
+ []
+
+
+Overfull \hbox (13.82964pt too wide) in paragraph at lines 528--529
+\OT1/cmr/m/n/10 Started by com-pos-ing op-eras but moved on to pub-lish-ing sa-cred mu-sic and madri-gals (poly-phonic/solo).
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--537
+
+ []
+
+
+Overfull \hbox (3.13504pt too wide) in paragraph at lines 535--537
+\OT1/cmr/m/n/10 Leading char-ac-ters are po-trayed as am-bigu-ous (not heroes or vil-lains) with string pas-sions (il-lus-trated
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 542--546
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 542--546
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 542--546
+
+ []
+
+[18]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 598.
+ [19]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 598.
  (./Notes.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 522.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 522.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 598.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 598.
 Package rerunfilecheck Info: File `Notes.out' has not changed.
-(rerunfilecheck)             Checksum: D2FF97DDBA3CCDE43E558F8860688B49;4685.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 522.
+(rerunfilecheck)             Checksum: F7B886DD25727C1B8667754205333BB7;5487.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 598.
  ) 
 Here is how much of TeX's memory you used:
- 6512 strings out of 492616
- 94129 string characters out of 6129482
- 193739 words of memory out of 5000000
- 10289 multiletter control sequences out of 15000+600000
+ 6534 strings out of 492616
+ 94463 string characters out of 6129482
+ 193751 words of memory out of 5000000
+ 10299 multiletter control sequences out of 15000+600000
  11503 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  28i,6n,28p,409b,448s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Notes.pdf (17 pages, 137396 bytes).
+Output written on Notes.pdf (19 pages, 144143 bytes).
 PDF statistics:
- 420 PDF objects out of 1000 (max. 8388607)
- 391 compressed objects within 4 object streams
- 78 named destinations out of 1000 (max. 500000)
- 473 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 482 PDF objects out of 1000 (max. 8388607)
+ 450 compressed objects within 5 object streams
+ 90 named destinations out of 1000 (max. 500000)
+ 553 words of extra memory for PDF output out of 10000 (max. 10000000)
 
