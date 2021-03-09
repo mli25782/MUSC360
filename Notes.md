@@ -63,4 +63,144 @@ Multi-movement chamber work
 Written by Elizabeth-Claude Jacquet de la Guerre for 2 violins, concerted cello, and continuo. Consists of 8 movements organized by
 * Tempo contrast: slow-fast (Grave, Presto, [Adagio], Presto, Adagio, Presto, Aria/Adagio, Allgero)
 * Texture contrast: homophonic slow movements in trio texture with dissonant suspensions versus imitative/fugal fast movements
+## Georgian London (1720-1740)
+### George Frideric Handel (1685-1759)
+Originally a German-born Italian composer but became a naturalized British citizen. His works weren't popular initially but by the end of his life, he was seen as the national English composer.   
+  
+Was trained in German polyphonic tradition but was interested in dramatic (opera) music and moved to Hamburg and to Italy to study opera with the **Arcadian Academy**
+* Academy's goal was to reform Venetian opera to restore its seriousness and purpose, modeled on Greek tragedy
+* Academy created **opera seria**, developed by **Alessandro Scarlatti**. From this, Handel learns how to write operatic voice.
 
+Handel eventually moved London and established himself as a Italian opera seria composer.   
+    
+#### Handel's Early Operatic Career in London
+* 1711-19: freelance opera seria composer
+* 1719-28: impresario of the **Royal Academy of Music**
+  * Hired Italian star singers to perform operas
+##### Giulio Cesare in Egitto (1724)
+3 act opera seria
+* Libretto based on ancient Roman history
+* Extremely popular and had multiple revivals
+* Cast was stellar (even in the supporting roles)
+* Had more arias than usual
+* Had an expanded orchestra
+* Cesare: much younger than historical counterpart (modeled on Alexander)
+  * Opening is a bravura aria (fast and energetic melody) to portray a warrior
+  * Moves on to a full da capo rage aria (minor and virtuosic) to potray an enlightened ruler
+* Cleopatra: role was acclaimed for its infinite variety
+  * Seductress in Act 2 in her full-length da capo cantabile aria (major lyrical)
+#### Handel's Later Operatic Career in London
+* 1728: Royal Academy of Music goes bankrupt
+* 1728-34: Second Academy performs at King's Theater but lost it to the Opera of the Nobility
+* 1734-41: Handel opens his 3rd opera company at Covent Garden Theater
+* When Handel's operatic career declined, he switched to **Oratorios** (explained below)
+* Also wrote instrumental music including **Organ concertos**, **trio sonatas**, and **concerto grossos**
+##### The Beggar's Opera (1728)
+A **ballad opera** in 3 acts
+* Its popularity effectively bankrupted the Royal Academy of Music
+* ballad opera: genre unique to Georgian England where the play is interspersed with **airs**: songs with new and satirical text set to popular pre-existing tunes
+* Had Irreverent witty political satire with good theatrical pacing
+* Parody the conventions of culture of opera seria and satirizes Handel's company
+##### Arioadante (1735)
+3 act opera seria
+* Scherza infida (Act 2): a full length da capo lament aria (minor lyrical) in G minor. Features a bassoon **obbligato** over muted strings
+
+### Opera Seria
+**Rules**:
+* Must be serious and all comedy is banished
+  * Plots typically were romanticized ancient history with no subplots
+* Setting must be believable (i.e. no magic)
+* The plot develops quickly in locations of close proximity
+* Plot involves no more than 8 characters and chorus + dance are eliminated
+* Opera must teach a moral lesson
+  * Must shows what should happen, not what actually happened (even in history)
+  * Must have an **Englightened** ending where all injustices are resolved and the villains learn their lesson.
+
+**What it looks like**:
+* 3 acts and not allegorical prologue
+* Only 1 scene change per act (e.g. from private to public location)
+* Each act is divided into scenes (usually marked by entry or exit of a character)
+  * Stage must never be empty
+
+**What it sounds like**:
+* Continuo recitative: continuo accompaniment 
+* Obbligato recitative: rare, reserved for the leader character with full string ensemble accompaniment and optional **obbligato** (soloistic winds)
+*  Aria: main vehicle for emotional expression
+
+**Aria form and style**
+* Full da capo form (usually for exit arias): ABA' with each section separated by an instrumental **ritornello**
+  * A: binary form, with both halves set to the same text
+  * B: shorter, new text in a constrasting mood
+  * A': recap of A with improvised ornamentation
+* Truncated del segno form: lacks the **ritornello** before A'
+* Cavatina form: simple binary (only A section) with an ornamented 2nd half
+
+**Placement and function of aria in opera seria**:
+* Usually 20-30 arias per opera, usually 4-5 per couple
+* Placement of arias depend on the need to separate arias for the same character and aria types can't be repetitive
+* Arias are classified by their **affection** (emotion) that is projected to the audience
+  * **Bravura**: major mode in duple meter and fast tempo with an energetic melody. Accompanied by an **obbligato** brass
+  * **Rage**: minor mode in duple meter and fast tempo with an energetic melody that has fast passageworks in the strings
+  * **Cantabile** (love aria): major mode in duple or triple meter and slow tempo. Uses **appoggiaturas** and has a preference for lyrical melody over virtuosity
+  * **Lament** (grief aria): minor mode in triple meter and slow tempo. Features the **descending minor tetrachord**, dissonant **appoggiaturas** and favors lyrical melodies over virtuosity
+
+### Oratorio
+Unstaged dramatic work similar to opera seria but
+* Cheap to produce: requires no sets, staging, or costumes
+* Financially lucrative (tickets were sold): was considered a secular genre despite its sacred subject
+
+### English Oratorio
+Libretti in English adapt sacred plots
+* Story is told directly by characters
+* Operatic in size (usually 3 acts)
+* Chorus has a significant role as both a character and commentator
+* Features continuo and obbligato recitatives and arias (though no always da capo)
+* Brought immediate success since
+  * Text was in English, making familiar biblical stories accessible to a broader audience
+  * Rise of nationalist feelings during the Jacobite rebellion: British identified themselves as the chosen people of Israel
+#### Saul (1738)
+English oratorio with 3 acts
+* Has female characters: Saul's daughters
+* Chorus plays the central role of "the people of Israel" and as the "Greek chorus"
+* Setting scored for expanded orchestra
+* *Dead March*: an instrumental *Grave* in C-major
+  * Rounded binary with repeats, constrasts sonority of trombones, strings, and continuo with flute, organ, and timpani texture
+* *Elegy for Saul and Jonathan*: chorus mourn their dead warriors and ackowledge Saul's valor
+  * *Mourn, Israel*: opening choral lament in c minor, triple meter with string accompaniment and dissonant suspensions between voices
+  * *Grid on thy sword*: four distinct sections that alternate homophonic and fugal textures, syllabic and melismatic passages. Was influenced by the **English choral anthem**
+### Concerto Grosso
+Instrumental work similar in structure to the trio-sonata
+* 4-6 movements bearing dance/genre titles
+* Contrasing tempos and textures (homophonic vs imitative)
+* Scoring: **concertino** (group of soloists) supported by the **ripieno** (ensemble of strings with continuo)
+* Texture: alternation of **tutti** (concertino with ripieno) sections and **solo** sections (concertino only)
+* **Ritornello form**: tutti sections play the same material returns like a refrain, alternating with virtuosic solo episodes
+#### Concerto Grosso in B-minor, op 6 no 12 (1739)
+* Scored for a concertino of 2 violins, cello, and harpsichord continuo and a ripieno group of strings and a separate continuo group
+* Arch-like 5 movement structure: 2 Largo-Allegro pairs surround a Largehtto Aria with variations
+  * Largo: duple meter with dotted rhythms evoking style of a French overture
+  * Allegro: **perpetuum mobile** main theme with **bariolage** returning multiple times in different keys
+  * Aria: Larghetto. Binary form with repeats. Musical style evokes both a minuet and a chaconne
+    * Variatio: written out repeats of binary create 2 variations
+      * Var 1: unchanged melody accompanied by basso corrente
+      * Var 2: ornamented melody over original harmonic support
+  * Largo: modulate back to B-minor leading to the last movement
+  * Alllegro finale: full length fugue with no tutti-solo alternation
+### Orchestral suites
+Both royal commissions for outdoor performances
+* *Water Music* (1717): medley of instrumental pieces
+* *Music for Royal Fireworks* (1749): commissioned by George II for the festivities in Green Park for the Peace Treaty of Aix-la-Chapelle (End of War of Austrian Succession)
+#### Music for the Royal Fireworks
+* Ended up being a symbol of English pride
+* Original scoring was for large wind band
+* Published scoring (for indoor performances) added strings and a large continuo group
+
+Consists of:
+* Overture: unique blend of French overture and concerto grosso with 4 sections (slow-fast-slow-fast)
+* Bourree: lively French dance in binary form. Has a transparent texture and clear phrasing with hidden complexities in the structure (tonic is unclear)
+* La Paix: a siciliana with a rounded binary form that evokes the Pifa from Messiah
+  * Ensemble is divided into 2 groups by timbre (horn choir vs strings)
+* La Rejoussance: Allegro fanfare in binary form. Each half is repeated 3 times in 3 different orchestrations
+* Minuet I-II: both galant dances in binary form but contrasting styles
+  * Minuet I: graceful D minor with reduced scoring
+  * Minuet II: majestic D major with triple scoring identical to La Rejoussance
